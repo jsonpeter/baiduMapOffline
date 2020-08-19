@@ -1,0 +1,19 @@
+{
+  "name": "bmap-offline-for-web-master",
+  "version": "1.0.0",
+  "description": "Baidu Map Web Localization Solution（百度地图Web端离线解决方案）",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "koa": "^2.13.0",
+    "koa-bodyparser": "^4.3.0",
+    "koa-route": "^3.2.0",
+    "koa-router": "^9.4.0",
+    "koa-static": "^5.0.0"
+  }
+}

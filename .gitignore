@@ -1,0 +1,6 @@
+*.zip
+*.rar
+*.tar
+*.gz
+tiles/
+.history
